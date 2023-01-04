@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> My webpage</title>
+    <link rel="icon" href="/my-styles.css">
+    <meta name="description" content="My webpage is a play">
+</head>
+<body>
+    <h1> My webpage</h1>
+    <script src="/my-script.js"></script>
+</body>
+</html>
