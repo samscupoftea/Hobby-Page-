@@ -7,10 +7,17 @@ button{
 }
 
 h1{
-      color:crimson;
+      color:rgb(44, 80, 221);
    
 }
 
 h3{
       color: rgb(143, 21, 21);
+}
+// Adding styling to the real clock 
+
+clocl{
+      color:red;
+      border: none;
+      height: 100px;
 }
