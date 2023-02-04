@@ -14,9 +14,9 @@ h1{
 h3{
       color: rgb(143, 21, 21);
 }
-// Adding styling to the real clock 
 
-clocl{
+
+button{
       color:red;
       border: none;
       height: 100px;
