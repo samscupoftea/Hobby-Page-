@@ -9,7 +9,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "url": "file:///Users/samuelhockaday/Desktop/Founders%20and%20Coders%20/My%20First%20Repo/My%20First%20Repo%2017.05.02.html",
+            "url": "file:///Users/samuelhockaday/Desktop/Founders%20and%20Coders%20/My%20First%20Repo/My-First-Repo/My%20First%20Repo.html",
             "webRoot": "${workspaceFolder}"
         },
     

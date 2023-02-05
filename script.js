@@ -1,11 +1,13 @@
 function realtimewebclock() {
     var rtClock = new Date();
+
     var hours = rtClock.getHours();
     var minutes = rtClock.getMinutes;
     var seconds = rtClock.getSeconds;
-
+   var session = document.getElementById
     //add AM and PM system 
     var amPm = ( hours < 12) ? "AM" : "PM";
+
 //Convert hours into 12 hour rather than 24 format
     hours = (hours > 12) ? hours = 12 : hours;
 

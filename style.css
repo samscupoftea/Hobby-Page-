@@ -1,5 +1,5 @@
 button{
-      background-color: orange;
+      background-color: rgb(1, 61, 243);
       color: white;
       border: none;
       height: 50px;
@@ -17,7 +17,15 @@ h3{
 
 
 button{
-      color:red;
+      color:rgb(253, 253, 253);
       border: none;
-      height: 100px;
+      height: 120px;
+      border-radius: 100px;
+}
+
+#clock{
+      width: 100%;
+      position: absolute;
+      font-size: 9vw;
+      color: blueviolet;
 }
