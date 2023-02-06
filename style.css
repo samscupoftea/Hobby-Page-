@@ -24,8 +24,21 @@ button{
 }
 
 #clock{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       width: 100%;
       position: absolute;
       font-size: 9vw;
       color: blueviolet;
+}
+
+.maincontainer{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color:rgb(43, 226, 64);
+      font-weight: bold;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      font-size: 40px;
+
 }
