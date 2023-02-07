@@ -10,6 +10,7 @@ function displayTime(){
    }else{
     session.innerHTML = 'AM';
    }
+   
  
    document.getElementById('hours').innerHTML = hrs;
    document.getElementById('minutes').innerHTML = min;
