@@ -15,6 +15,7 @@ h1{
       font-size: 40px;
       font-family:monospace;
       font-style: oblique;
+      justify-content: center;
     padding: 24px;
     color: rgb(255, 255, 255); 
     background: rgba(0, 37, 202, 0.267); 
@@ -36,3 +37,17 @@ button{
       border-radius: 100px;
 }
 
+div.top-row-buttons{
+    padding: 24px;
+    color: rgb(255, 255, 255); 
+    background: rgba(0, 37, 202, 0.267); 
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.267);
+    border-radius: 4px;
+    border-right: 10px rgb(255, 255, 255)
+} 
+
+div.font-properties{
+      color: #000;
+      border-radius: 6px;
+
+}
