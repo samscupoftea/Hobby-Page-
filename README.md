@@ -23,6 +23,7 @@ In addition, I added some a function list that will include the names of useful 
 I also taught learnt how to turn an image I have on page into a link. This makes my page far more seemless and a lot more interactive for the user.
 
 Thursday 9th Feb:
+
 Today I focused upon learning and using <article> and <section> tags, to help better organise my hobby page.
 I also added the <nav> tag to what will soon become the nav bar at the top of the page.
 I need to learn how to format the webpage to give it some style but also because I want the page to have a logical design language that includes side-by-side columns for each of my three aspects of meditation.
