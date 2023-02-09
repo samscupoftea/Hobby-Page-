@@ -1,6 +1,6 @@
 body{
-      background-image:url(/images/sky-3752809_1280.jpg);
-      background-color: rgb(150, 192, 243);
+      background-image: url('./images/sky-3752809_1280.jpg');
+      background-color: aqua;
 }
 
 button{
@@ -50,4 +50,29 @@ div.font-properties{
       color: #000;
       border-radius: 6px;
 
+}
+
+div.meditation{
+      padding:16px;
+      color:rgb(0, 0, 0);
+      background-color: white;
+      border-radius: 6px;
+      border-left: 30px
+}
+
+div.meditation1{
+      width: 73%;
+      float: right;
+      box-sizing: border-box;
+      padding: 16px;
+      background-color: white;
+      border-radius: 8px;
+
+
+
+}
+
+footer {
+      clear: both;
+      border-top: 1px skyblue;
 }

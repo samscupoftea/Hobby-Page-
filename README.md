@@ -21,3 +21,12 @@ One of the biggest breakthroughs today was learning how to create a class for ea
 
 In addition, I added some a function list that will include the names of useful meditation apps and websites.
 I also taught learnt how to turn an image I have on page into a link. This makes my page far more seemless and a lot more interactive for the user.
+
+Thursday 9th Feb:
+Today I focused upon learning and using <article> and <section> tags, to help better organise my hobby page.
+I also added the <nav> tag to what will soon become the nav bar at the top of the page.
+I need to learn how to format the webpage to give it some style but also because I want the page to have a logical design language that includes side-by-side columns for each of my three aspects of meditation.
+I implemented what I had learnt yesterday by using the <div>=class tag to create classes for each of my article sections so that they can then
+easily be styled and adjusted in CSS.
+Finally (this took me FOREVER to figure out) I got my downloaded background image to display as the backdrop for me page.
+I had multiple attempts at trying to make this work. I ran into problems such as the link to the local image not working, all the way to the div tag not responding. What worked in the end was to create a <div= class> for the image in HTML, and then link the image in CSS with the within BODY. Somehow that seemed to work. Tomorrow I will more thoroughly look into exactly why the "body." assignment in CSS was neccessary.
