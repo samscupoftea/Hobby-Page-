@@ -31,3 +31,8 @@ I implemented what I had learnt yesterday by using the <div>=class tag to create
 easily be styled and adjusted in CSS.
 Finally (this took me FOREVER to figure out) I got my downloaded background image to display as the backdrop for me page.
 I had multiple attempts at trying to make this work. I ran into problems such as the link to the local image not working, all the way to the div tag not responding. What worked in the end was to create a <div= class> for the image in HTML, and then link the image in CSS with the within BODY. Somehow that seemed to work. Tomorrow I will more thoroughly look into exactly why the "body." assignment in CSS was neccessary.
+
+Friday 10th Feb:
+Today I am looking to do establish my column layout for my hobby page. I have one quite inefficient way of doing it and am currently in the
+process of seeing how I can write more efficient code. For example, one that utlises the <Div> in a much simpler way.
+I have found on W3's website an example so I am going to try and make amendments next to see how it works out.
