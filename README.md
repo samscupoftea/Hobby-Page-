@@ -33,6 +33,10 @@ Finally (this took me FOREVER to figure out) I got my downloaded background imag
 I had multiple attempts at trying to make this work. I ran into problems such as the link to the local image not working, all the way to the div tag not responding. What worked in the end was to create a <div= class> for the image in HTML, and then link the image in CSS with the within BODY. Somehow that seemed to work. Tomorrow I will more thoroughly look into exactly why the "body." assignment in CSS was neccessary.
 
 Friday 10th Feb:
-Today I am looking to do establish my column layout for my hobby page. I have one quite inefficient way of doing it and am currently in the
+Today I am looking to establish my column layout for my hobby page. I have one quite inefficient way of doing it and am currently in the
 process of seeing how I can write more efficient code. For example, one that utlises the <Div> in a much simpler way.
 I have found on W3's website an example so I am going to try and make amendments next to see how it works out.
+
+Saturday 11th Feb:
+Today wa all about organizing my columns so that they are correctly placed equally in the middle of the page. In order to do this I ended up using a div that encompassed both columns and added "display flex" and increased the overall width of the two.
+I also removed some cumbersome code that was overcomplicating the styling css page.
