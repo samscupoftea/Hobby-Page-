@@ -145,7 +145,7 @@ div.virpasana-pic{
 }
 
 #container {
-      height 80px;
+      height: 50px;
       width: 400px;
       background-color: white;
       display:flex;
@@ -153,12 +153,12 @@ div.virpasana-pic{
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      border: 5px solid:rgb(170, 231, 167);
+      border: 5px solid rgb(170, 231, 167);
 
 
 }
 #output {
       font-size: 50px;
       text-align: center;
-      
+
 }
