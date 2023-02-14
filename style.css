@@ -44,7 +44,10 @@ h4 {
 }
 
 h3{
-      color: rgb(143, 21, 21);
+      color: rgb(0, 0, 0);
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+      font-size: 30px;
 }
 
 
@@ -84,19 +87,19 @@ div.meditation1{
 
 
 div.column-left{
-      width: 450px;
+      width: 1000px;
       float: left;
       box-sizing: border-box;
       padding: 10px;
       background-color: rgb(170, 231, 167);
       border-radius: 50px;
-      margin: 10px;
+      margin: 25px;
 
 }
 
 div.column-right{
-      width: 450px;
-      float: center;
+      width: 1000px;
+      float: left;
       box-sizing: border-box;
       padding: 10px;
       background-color: rgb(158, 213, 142);
@@ -192,11 +195,23 @@ div.virpasana-pic{
       
 }
 div.applist {
-      width: 450px;
-      float: left;
+      width: 1000px;
+      height: max-content;
+      display:flex;
+      margin: auto;
+      flex-direction: column;
+      justify-content: center;
       box-sizing: border-box;
       padding: 10px;
       background-color: rgb(170, 231, 167);
       border-radius: 50px;
-      margin: 10px;
+      
+      
+
+}
+p {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: 200;
+      font-size: 20px;
+      align-content: flex-start;
 }

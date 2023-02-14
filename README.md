@@ -40,3 +40,12 @@ I have found on W3's website an example so I am going to try and make amendments
 Saturday 11th Feb:
 Today wa all about organizing my columns so that they are correctly placed equally in the middle of the page. In order to do this I ended up using a div that encompassed both columns and added "display flex" and increased the overall width of the two.
 I also removed some cumbersome code that was overcomplicating the styling css page.
+
+Monday 13 Feb:
+Today I decided to add the live date to the top of my hobby page. First I used HTML to create an OUTPUT and a DATE. The OUTPUT would display todays date. While the DATE would be where I would target my JS to display the current day as in day month year.
+After creating DIV classes (One container and one for OUTPUT and one for DATE), I then moved on to CSS to style a box and for the placement of the time itself. I created a box and a border. I also made sure to allign the text so that it was centred within the box.
+Next was to start on the JS side of things. I had not had an success last time I attempted to link my JS to my html. So I spent a long time today trying to figure out the issue. I had already tried the usual tips like moving the link ref in the HTML to somewhere WITHIN the <body>. But still no luck. To cut a long and boring story short, I realized that (simialr to my issue with linking the CSS file), the script.js link required a full stop at the start of it.
+I knew that JS was working by looking at my command console and trying a basic command like get date. Now that it was working it was time to make the time appear. I did that by using getelementID to link to my HTML elements. Then I used innerHTML to get date and time. I also had to tell java to switch the day from 0 being Sunday, to 6 being saturday. So that it knew what day to display and how to display it.
+Finally I adjusted my boxes and added some nicer fonts.
+The final things to do are to add more clicable links to three other apps I wish to recommend on the page and then finish the styling.
+I will do this tomorrow.
