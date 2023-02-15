@@ -1,15 +1,26 @@
 *{
       margin: 0;
       padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+      width: 100%;
+      height: 100vh;
+      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./momentmeditaiton.jpeg);
+      background-position: center;
+      background-size: contain;
 }
 
 
 body{
       background-image: url(./images/sky-3752809_1280.jpg);
       background-color: rgb(137, 203, 234);
-      background-position-x: center;
+      background-position: center;
       width: 100%;
       height:auto;
+      background-size: contain;
+
       
 
 }
@@ -27,7 +38,6 @@ button{
 
 h1{
       font-size: 40px;
-      font-family:monospace;
       font-style: oblique;
       justify-content: center;
     padding: 24px;
@@ -42,7 +52,6 @@ h1{
 
 h4 {
       font-size: 30px;
-      font-family:monospace;
       font-style: oblique;
       justify-content: center;
     padding: 4px;
@@ -69,7 +78,6 @@ button{
       border: none;
       height: 120px;
       border-radius: 100px;
-      font-family: monospace;
 }
 
 div.top-row-buttons{
@@ -190,7 +198,6 @@ div.virpasana-pic{
 #output {
       font-size: 30px;
       text-align: center;
-      font-family: monospace;
       font-weight: bolder;
       color: white;
 
@@ -198,7 +205,6 @@ div.virpasana-pic{
 #date {
       font-size: 30px;
       text-align: center;
-      font-family: monospace;
       font-weight: bolder;
       color: white;
       outline-color: black;
@@ -220,7 +226,6 @@ div.applist {
 
 }
 p {
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       font-weight: 200;
       font-size: 20px;
       align-content: flex-start;
