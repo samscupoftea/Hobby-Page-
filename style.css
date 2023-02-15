@@ -114,6 +114,8 @@ div.column-left{
       background: rgb(88, 142, 224);
       padding: 30px;
       background-image: url(./images/Meditation\ artwork\ 1\ .jpeg);
+      background-size: cover;
+      
 
 }
 
@@ -121,7 +123,8 @@ div.column-right{
       flex: 1;
       background: rgb(88, 142, 224);
       padding: 30px;
-      background-image:url(./images/FB_IMG_1562322184908_vognee_1565631409.jpeg);
+      background-image:url(./images/mountainsky.jpeg);
+      background-size: cover;
 
 
       
