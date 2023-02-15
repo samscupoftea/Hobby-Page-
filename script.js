@@ -28,6 +28,7 @@ switch (day){
 
 }
 
+
 output.innerHTML = day;
 date.innerHTML = ndate;
 

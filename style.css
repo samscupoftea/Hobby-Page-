@@ -1,6 +1,17 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+
+
 body{
       background-image: url('./images/sky-3752809_1280.jpg');
       background-color: rgb(137, 203, 234);
+      background-position-x: center;
+      width: 100%;
+      height:auto;
+      
+
 }
 
 button{
@@ -120,7 +131,6 @@ div.meditation-retreats{
 }
 
 
-
 div.meditation-list{
       width: 110%;
       float: center;
@@ -155,6 +165,8 @@ footer {
       width: 960px;
       margin: 0 auto;
       display: flex;
+      justify-content: space-around;
+      align-items: stretch;
       
 }
 div.virpasana-pic{
