@@ -14,9 +14,7 @@ div.titlebox{
 
 }
 
-header{
-  
-}
+
 
 
 body{
@@ -26,7 +24,7 @@ body{
       width: 100%;
       height:auto;
       background-size: cover;
-      margin-left: 60px;
+      
 
 }
 nav{
@@ -50,7 +48,7 @@ nav ul li a {
       font-size: 14px;
 
 }
-      
+
 button{
       background-color: rgb(67, 42, 195);
       color: rgb(135, 0, 0);
@@ -60,8 +58,20 @@ button{
       margin: auto;
       padding: 6px;
       
+      
 }
 
+h1{
+      
+      height: 88%;
+      align-items: center;
+      color: rgb(255, 255, 255);
+      flex-basis: 50%;
+      align-content: center;
+
+
+
+}
 
 
 h4 {
