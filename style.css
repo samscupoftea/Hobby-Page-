@@ -51,13 +51,23 @@ nav ul li{
       display: inline-block;
       margin-left: 60px;
       padding: 20px;
+      transition: transform 0.5s;
+      cursor: pointer;
 }
 nav ul li a {
       text-decoration: none;
       color: aliceblue;
       font-size: 16px;
       font-weight: bold;
+      transition: transform 0.05s;
+      cursor: pointer;
 
+}
+nav ul li a {
+      transform: translate(-10px);
+}
+nav ul li a {
+      transform: translate(-10px);
 }
 
 button{
@@ -247,9 +257,13 @@ div.applist {
       justify-content: center;
       box-sizing: border-box;
       padding: 10px;
-      background-color: rgb(170, 231, 167);
       border-radius: 50px;
       
+      flex: 1;
+      background: rgb(88, 142, 224);
+      padding: 30px;
+      background-image: url(./images/Meditation\ artwork\ 1\ .jpeg);
+      background-size: cover;
       
 
 }
