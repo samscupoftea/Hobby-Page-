@@ -67,3 +67,7 @@ I have started working on my LIST that comes at the bottom of my hobby page. Her
 can use to start meditating. I changed the background image to one more appropriate and pleasing to the eye.
 This features the title of each app and my own brief description of each one. I intent to add links to each of the litle titles.
 In additionm, I have decided to keep my nav bar at the bottom and use this for clickable icons.
+
+Tomorrow TO DO: ADD gradient in LIST BACKGROUND IMAGE.
+Edit Text in LIST and add LINKS.
+Add Pictures to apps that are clickable.
