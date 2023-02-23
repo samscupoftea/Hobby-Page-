@@ -102,7 +102,7 @@ h3{
       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
       font-weight: bold;
-      font-size: 30px;
+      font-size: 50px;
       text-align: center;
 }
 
@@ -257,14 +257,16 @@ div.applist {
       flex: 1;
       background: rgb(88, 142, 224);
       padding: 30px;
-      background-image: url(./images/mindskydoor.jpeg);
+      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./images/mindskydoor.jpeg);
+      
       background-size: cover;
       
 
 }
 p {
-      
+
       font-size: 22px;
+      color: white;
       align-content: flex-start;
 }
 .applistfont{
