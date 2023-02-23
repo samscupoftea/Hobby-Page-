@@ -63,3 +63,7 @@ Today was HUGE breakthrough in terms of progress. I FINALLY figured out how to t
 I removed some of the CSS border styling for my sub-heading and that seemed enable the changes I was trying to make to work. I initially had my sub-heading as a "H4" and thought it better to change it to <p> under my <h1> heading. But actually this change made thing more complicated as I didn't want my sub-heading to share the same attributes as my all of my other <p> code. So I actually changed this back to <h4> and added the any font alterations using that in CSS.
 In addition I edited the Nav bar text to make it slightly more legible as it was too small.
 My next step is to link the nav bar so that when you click it, it takes you down the page to the specified place.
+I have started working on my LIST that comes at the bottom of my hobby page. Here is where I have included all of my recommended apps that one
+can use to start meditating. I changed the background image to one more appropriate and pleasing to the eye.
+This features the title of each app and my own brief description of each one. I intent to add links to each of the litle titles.
+In additionm, I have decided to keep my nav bar at the bottom and use this for clickable icons.
