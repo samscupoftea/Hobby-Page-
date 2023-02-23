@@ -49,3 +49,11 @@ I knew that JS was working by looking at my command console and trying a basic c
 Finally I adjusted my boxes and added some nicer fonts.
 The final things to do are to add more clicable links to three other apps I wish to recommend on the page and then finish the styling.
 I will do this tomorrow.
+
+14th Feb - 22nd Feb:
+Over this past week I have spent time trying to imrprove and change the initial layout of my page. The first thing I wanted to do was to have a bold title page with the slighly gradiented background. The title of my hobby page was to appear in large, bold white text. The first thing I had to do was to make a div called "title box" which would include my image. I would then alter the dimensions of this in CSS. This would go just below my clock at the top of the page. In order to dim the image so that text would be visible on top, I used 'liner-gradient' code in CSS. This allows you to add two colours as a soft gradient. This is quite commonly used on modern websites and UI headers.
+Issues: I have had some issues trying to fully complete this change. I am finding it difficult to properly control the header text and cause it do what I would like to do. There has been a lot of failed attempts that I later had to delete. This has resulted in a lot of work but not much visible progress and change in my hobby page.
+The other challenging aspect is that my hobby page is quite cluttered with my very early-handed approaches to coding the page. On the one hand, this is great because the Hobby Page houses a lot of what I have learnt, meaning the next projects can be better implemented from the very start. But difficult because going back and changing entire aspects can undo and create even bigger set-backs.
+I have also added a proper Nav bar that is far superior to my first attempt. I placed this to the center top of my title part of the page. It is more minimal and will link to specific parts of my hobby page that you can also find by scrolling down.
+I also fixed my flex boxes that seemed to be stretching out farther from my actual page, rather than being neatly contained within the webpage.
+I used background-image "center", which seemed to fix my issue with the background image being tiled too.
