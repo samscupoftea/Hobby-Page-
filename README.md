@@ -57,3 +57,9 @@ The other challenging aspect is that my hobby page is quite cluttered with my ve
 I have also added a proper Nav bar that is far superior to my first attempt. I placed this to the center top of my title part of the page. It is more minimal and will link to specific parts of my hobby page that you can also find by scrolling down.
 I also fixed my flex boxes that seemed to be stretching out farther from my actual page, rather than being neatly contained within the webpage.
 I used background-image "center", which seemed to fix my issue with the background image being tiled too.
+
+23rd Febuary:
+Today was HUGE breakthrough in terms of progress. I FINALLY figured out how to target my title text without interfering with other assets. This meant a lot of cleaning up and re-organzing some of my code in both HTML and CSS.
+I removed some of the CSS border styling for my sub-heading and that seemed enable the changes I was trying to make to work. I initially had my sub-heading as a "H4" and thought it better to change it to <p> under my <h1> heading. But actually this change made thing more complicated as I didn't want my sub-heading to share the same attributes as my all of my other <p> code. So I actually changed this back to <h4> and added the any font alterations using that in CSS.
+In addition I edited the Nav bar text to make it slightly more legible as it was too small.
+My next step is to link the nav bar so that when you click it, it takes you down the page to the specified place.
