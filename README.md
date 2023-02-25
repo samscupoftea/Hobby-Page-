@@ -71,3 +71,7 @@ In additionm, I have decided to keep my nav bar at the bottom and use this for c
 Tomorrow TO DO: ADD gradient in LIST BACKGROUND IMAGE.
 Edit Text in LIST and add LINKS.
 Add Pictures to apps that are clickable.
+
+24th Febuary: I experimented with adding the same gradient I had to the title background, to my column boxes. But this also means that I will have to alter the text colour to make it legible.
+
+25th: This morning I started to systematically add links to each of the bottom nav bar tiles so that when you click on them they take you straight to the app website. For this I used the <a href> element. In addition, I wanted to affect some of my h4 titles differently instead of them all being the same colour. For this I made a div class= for the specific titles I wanted to style white.
