@@ -5,6 +5,16 @@
       
 }
 
+div.wrapping{
+
+     min-width: 768px;
+
+
+
+
+}
+
+
 div.titlebox{
       width: 100%;
       height: 100vh;
@@ -17,6 +27,7 @@ div.titletext{
       display: flex;
       height: 88%;
       align-items: center;
+
 
 }
 div.row{
@@ -88,6 +99,7 @@ h1{
       
       color: rgb(255, 255, 255);
       font-size: 160px;
+      display: flex;
       
 
 }
@@ -249,19 +261,19 @@ div.virpasana-pic{
       
 }
 div.applist {
-      width: 1000px;
+      
       height: max-content;
       display:flex;
       margin: auto;
       flex-direction: column;
       justify-content: center;
       box-sizing: border-box;
-      padding: 10px;
+
       border-radius: 50px;
       
       flex: 1;
       background: rgb(88, 142, 224);
-      padding: 30px;
+      padding: 50px;
       background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./images/mindskydoor.jpeg);
       
       background-size: cover;

@@ -75,3 +75,6 @@ Add Pictures to apps that are clickable.
 24th Febuary: I experimented with adding the same gradient I had to the title background, to my column boxes. But this also means that I will have to alter the text colour to make it legible.
 
 25th: This morning I started to systematically add links to each of the bottom nav bar tiles so that when you click on them they take you straight to the app website. For this I used the <a href> element. In addition, I wanted to affect some of my h4 titles differently instead of them all being the same colour. For this I made a div class= for the specific titles I wanted to style white.
+
+27th Febuary:
+Today my goal was to try and implement adapative web display. For this I needed to use a form of flex command in CSS. But I had a lot of trouble targetting the right elements (the entire page). For some reason the steps I seem to follow online don't quite work. It could be because I have a lot of Div and other elements that art styled and linked from CSS to HTML. It is going to take some trial and error to figure out how to get the responsive flex to apply to the entire page.
