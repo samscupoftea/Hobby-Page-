@@ -78,3 +78,5 @@ Add Pictures to apps that are clickable.
 
 27th Febuary:
 Today my goal was to try and implement adapative web display. For this I needed to use a form of flex command in CSS. But I had a lot of trouble targetting the right elements (the entire page). For some reason the steps I seem to follow online don't quite work. It could be because I have a lot of Div and other elements that art styled and linked from CSS to HTML. It is going to take some trial and error to figure out how to get the responsive flex to apply to the entire page.
+
+12 March: Today I returned to my Hobby Page to create anchor tags that will make my top buttons link to certain parts lower down on my page. Today I am systematically going through each project and adding this feature wherever it is lacking. I didn't know how to do this when I first created the initial anchor tags, but typing in google "how to create link to jump down page HTML" got my the right answer fast!
