@@ -15,7 +15,7 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "url": "https://samscupoftea.github.io/My-First-Repo/",
+            "url": "file:///Users/samuelhockaday/Desktop/Founders%20and%20Coders%20/My%20First%20Repo/My-First-Repo/index.html#why",
             "webRoot": "${workspaceFolder}"
         },
     {
