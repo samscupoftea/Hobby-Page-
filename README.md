@@ -1,5 +1,23 @@
 # My-First-Repo
 
+SUMMARY:
+
+I started my first project with the goal of taking my time to understand each addition instead of copying large amounts of code. Before starting work, I had to get acquainted with Visual Code, Git, and GitHub to ensure that my code and commits were documented. I downloaded helpful extensions like 'Project Manager' that allowed me to add multiple folders in one place, enabling me to jump between projects at the click of a button.
+
+I began by creating a simple HTML page with headings and paragraphs, followed by adding images and styling with CSS. I faced challenges when learning how to link the CSS page to my HTML page, which persisted for days before realizing my mistake.
+
+I then focused on learning and implementing div tags and created a class for each div to organize and style the page's specific aspects. I also turned images on the page into links to make it more interactive.
+
+I continued to learn and use article and section tags and added the nav tag to create the nav bar. I struggled with creating a logical design language, but using the div=class tag to create classes for each of my article sections made it easier to adjust in CSS.
+
+I finally figured out how to display my downloaded background image as the backdrop for the page after several attempts. I struggled with establishing an efficient column layout for the hobby page, but after making some amendments, I was successful.
+
+I added the live date to the top of my hobby page and created an OUTPUT and DATE in HTML to display today's date and target JS to display the current day. After creating DIV classes and styling a box, I started on the JS side, which took some time to link to my HTML. I used getelementID and innerHTML to display date and time, and I had to tell Java to switch the day from 0 being Sunday to 6 being Saturday.
+
+/---------------------------------------------------------------------------------------------/
+
+Readme Diary:
+
 With this being the first project, I trying to take my time to ensure I actually understand the process of
 each little addition. There is a temptation to simply copy great swaths of code. But that would just lead me knowehere.
 
@@ -24,17 +42,17 @@ I also taught learnt how to turn an image I have on page into a link. This makes
 
 Thursday 9th Feb:
 
-Today I focused upon learning and using <article> and <section> tags, to help better organise my hobby page.
-I also added the <nav> tag to what will soon become the nav bar at the top of the page.
+Today I focused upon learning and using _article_ and _section_ tags, to help better organise my hobby page.
+I also added the _nav_ tag to what will soon become the nav bar at the top of the page.
 I need to learn how to format the webpage to give it some style but also because I want the page to have a logical design language that includes side-by-side columns for each of my three aspects of meditation.
-I implemented what I had learnt yesterday by using the <div>=class tag to create classes for each of my article sections so that they can then
+I implemented what I had learnt yesterday by using the _div=class_ tag to create classes for each of my article sections so that they can then
 easily be styled and adjusted in CSS.
 Finally (this took me FOREVER to figure out) I got my downloaded background image to display as the backdrop for me page.
-I had multiple attempts at trying to make this work. I ran into problems such as the link to the local image not working, all the way to the div tag not responding. What worked in the end was to create a <div= class> for the image in HTML, and then link the image in CSS with the within BODY. Somehow that seemed to work. Tomorrow I will more thoroughly look into exactly why the "body." assignment in CSS was neccessary.
+I had multiple attempts at trying to make this work. I ran into problems such as the link to the local image not working, all the way to the div tag not responding. What worked in the end was to create a _div= class_ for the image in HTML, and then link the image in CSS with the within BODY. Somehow that seemed to work. Tomorrow I will more thoroughly look into exactly why the "body." assignment in CSS was neccessary.
 
 Friday 10th Feb:
 Today I am looking to establish my column layout for my hobby page. I have one quite inefficient way of doing it and am currently in the
-process of seeing how I can write more efficient code. For example, one that utlises the <Div> in a much simpler way.
+process of seeing how I can write more efficient code. For example, one that utlises the _div_ in a much simpler way.
 I have found on W3's website an example so I am going to try and make amendments next to see how it works out.
 
 Saturday 11th Feb:
@@ -44,7 +62,7 @@ I also removed some cumbersome code that was overcomplicating the styling css pa
 Monday 13 Feb:
 Today I decided to add the live date to the top of my hobby page. First I used HTML to create an OUTPUT and a DATE. The OUTPUT would display todays date. While the DATE would be where I would target my JS to display the current day as in day month year.
 After creating DIV classes (One container and one for OUTPUT and one for DATE), I then moved on to CSS to style a box and for the placement of the time itself. I created a box and a border. I also made sure to allign the text so that it was centred within the box.
-Next was to start on the JS side of things. I had not had an success last time I attempted to link my JS to my html. So I spent a long time today trying to figure out the issue. I had already tried the usual tips like moving the link ref in the HTML to somewhere WITHIN the <body>. But still no luck. To cut a long and boring story short, I realized that (simialr to my issue with linking the CSS file), the script.js link required a full stop at the start of it.
+Next was to start on the JS side of things. I had not had an success last time I attempted to link my JS to my html. So I spent a long time today trying to figure out the issue. I had already tried the usual tips like moving the link ref in the HTML to somewhere WITHIN the body. But still no luck. To cut a long and boring story short, I realized that (simialr to my issue with linking the CSS file), the script.js link required a full stop at the start of it.
 I knew that JS was working by looking at my command console and trying a basic command like get date. Now that it was working it was time to make the time appear. I did that by using getelementID to link to my HTML elements. Then I used innerHTML to get date and time. I also had to tell java to switch the day from 0 being Sunday, to 6 being saturday. So that it knew what day to display and how to display it.
 Finally I adjusted my boxes and added some nicer fonts.
 The final things to do are to add more clicable links to three other apps I wish to recommend on the page and then finish the styling.
@@ -60,7 +78,7 @@ I used background-image "center", which seemed to fix my issue with the backgrou
 
 23rd Febuary:
 Today was HUGE breakthrough in terms of progress. I FINALLY figured out how to target my title text without interfering with other assets. This meant a lot of cleaning up and re-organzing some of my code in both HTML and CSS.
-I removed some of the CSS border styling for my sub-heading and that seemed enable the changes I was trying to make to work. I initially had my sub-heading as a "H4" and thought it better to change it to <p> under my <h1> heading. But actually this change made thing more complicated as I didn't want my sub-heading to share the same attributes as my all of my other <p> code. So I actually changed this back to <h4> and added the any font alterations using that in CSS.
+I removed some of the CSS border styling for my sub-heading and that seemed enable the changes I was trying to make to work. I initially had my sub-heading as a "H4" and thought it better to change it to _p> under my h1_ heading. But actually this change made thing more complicated as I didn't want my sub-heading to share the same attributes as my all of my other _p_ code. So I actually changed this back to _h4_ and added the any font alterations using that in CSS.
 In addition I edited the Nav bar text to make it slightly more legible as it was too small.
 My next step is to link the nav bar so that when you click it, it takes you down the page to the specified place.
 I have started working on my LIST that comes at the bottom of my hobby page. Here is where I have included all of my recommended apps that one
