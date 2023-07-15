@@ -1,63 +1,67 @@
-*{
+* {
       margin: 0;
       padding: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      
-}
-
-div.wrapping{
-
-     min-width: 768px;
-
-
-
 
 }
 
+div.wrapping {
 
-div.titlebox{
+      min-width: 768px;
+
+
+
+
+}
+
+
+div.titlebox {
       width: 100%;
       height: 100vh;
-      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./momentmeditaiton.jpeg);
+      background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./momentmeditaiton.jpeg);
       background-position: center;
       background-size: cover;
 
 }
-div.titletext{
+
+div.titletext {
       display: flex;
       height: 88%;
       align-items: center;
 
 
 }
-div.row{
+
+div.row {
       flex-basis: 50%;
 
 }
 
 
 
-body{
+body {
       background-image: url(./images/sky-3752809_1280.jpg);
       background-color: rgb(137, 203, 234);
       background-position: center;
       width: 100%;
-      height:auto;
-      background-size: cover;
-      
+      height: auto;
+
+
 
 }
-nav{
+
+nav {
       flex: 2;
       text-align: right;
       height: 70px;
       text-align: center;
       margin: auto;
       padding: 6px;
-      
-      
+
+
 }
-nav ul li{
+
+nav ul li {
       list-style: none;
       display: inline-block;
       margin-left: 60px;
@@ -65,6 +69,7 @@ nav ul li{
       transition: transform 0.5s;
       cursor: pointer;
 }
+
 nav ul li a {
       text-decoration: none;
       color: aliceblue;
@@ -74,14 +79,16 @@ nav ul li a {
       cursor: pointer;
 
 }
-nav ul li a {
-      transform: translate(-10px);
-}
+
 nav ul li a {
       transform: translate(-10px);
 }
 
-button{
+nav ul li a {
+      transform: translate(-10px);
+}
+
+button {
       background-color: rgb(100, 197, 239);
       color: rgb(135, 0, 0);
       border: rgb(251, 251, 251);
@@ -90,58 +97,59 @@ button{
       margin: auto;
       padding: 6px;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      
-      
+
+
 }
 
-h1{
-      
-      
+h1 {
+
+
       color: rgb(255, 255, 255);
       font-size: 160px;
       display: flex;
-      
+
 
 }
-h4{
+
+h4 {
       color: white;
       font-size: 50px;
 
 }
 
 
-h3{
+h3 {
       color: rgb(255, 255, 255);
-      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
       font-weight: bold;
       font-size: 50px;
       text-align: center;
-     
+
 
 }
 
 
 
-div.top-row-buttons{
+div.top-row-buttons {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      
-    padding: 24px;
-    color: rgb(255, 255, 255); 
-    background: rgba(57, 167, 241, 0.267); 
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.267);
-    border-radius: 4px;
-    border-right: 10px rgb(255, 255, 255)
-} 
 
-div.font-properties{
+      padding: 24px;
+      color: rgb(255, 255, 255);
+      background: rgba(57, 167, 241, 0.267);
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.267);
+      border-radius: 4px;
+      border-right: 10px rgb(255, 255, 255)
+}
+
+div.font-properties {
       color: #000;
       border-radius: 6px;
 
 }
 
 
-div.meditation1{
+div.meditation1 {
       width: 100%;
       float: center;
       box-sizing: border-box;
@@ -149,33 +157,33 @@ div.meditation1{
       background-color: white;
       border-radius: 8px;
       display: flex;
-      background-image: linear-gradient(rgba(157, 154, 154, 0.7),rgba(16, 138, 219, 0.7)),url(./images/mindskydoor.jpeg);
+      background-image: linear-gradient(rgba(157, 154, 154, 0.7), rgba(16, 138, 219, 0.7)), url(./images/mindskydoor.jpeg);
 
 }
 
 
-div.column-left{
+div.column-left {
       flex: 1;
       background: rgb(88, 142, 224);
       padding: 30px;
-      background-image: linear-gradient(rgba(157, 154, 154, 0.7),rgba(16, 138, 219, 0.7)),url(./images/Meditation\ artwork\ 1\ .jpeg);
+      background-image: linear-gradient(rgba(157, 154, 154, 0.7), rgba(16, 138, 219, 0.7)), url(./images/Meditation\ artwork\ 1\ .jpeg);
       background-size: cover;
-      
+
 
 }
 
-div.column-right{
+div.column-right {
       flex: 1;
       background: rgb(88, 142, 224);
       padding: 30px;
-      background-image: linear-gradient(rgba(157, 154, 154, 0.7),rgba(16, 138, 219, 0.7)),url(./images/mountainsky.jpeg);
+      background-image: linear-gradient(rgba(157, 154, 154, 0.7), rgba(16, 138, 219, 0.7)), url(./images/mountainsky.jpeg);
       background-size: cover;
 
 
-      
+
 }
 
-div.meditation-retreats{
+div.meditation-retreats {
       width: 110%;
       float: center;
       box-sizing: border-box;
@@ -186,7 +194,7 @@ div.meditation-retreats{
 }
 
 
-div.meditation-list{
+div.meditation-list {
       width: 110%;
       float: center;
       box-sizing: border-box;
@@ -198,11 +206,11 @@ div.meditation-list{
 
 
 
-div.wrapper{
+div.wrapper {
       padding: 1%;
       box-sizing: border-box;
       min-height: 500px;
-     
+
 }
 
 footer {
@@ -213,7 +221,7 @@ footer {
       padding-top: 10px;
 }
 
-.content-box{
+.content-box {
       column-count: 2;
 }
 
@@ -223,12 +231,13 @@ footer {
       background-image: url(./images/Meditation\ artwork\ 1\ .jpeg);
       padding: 50px;
       box-sizing: border-box;
-      
+
 }
-div.virpasana-pic{
+
+div.virpasana-pic {
       width: 200px;
       border-radius: 10px;
-      
+
 
 }
 
@@ -236,7 +245,7 @@ div.virpasana-pic{
       height: 70px;
       width: 400px;
       background-image: url('./images/sky-3752809_1280.jpg');
-      display:flex;
+      display: flex;
       margin: auto;
       flex-direction: column;
       justify-content: center;
@@ -245,6 +254,7 @@ div.virpasana-pic{
 
 
 }
+
 #output {
       font-size: 30px;
       text-align: center;
@@ -252,56 +262,62 @@ div.virpasana-pic{
       color: white;
 
 }
+
 #date {
       font-size: 30px;
       text-align: center;
       font-weight: bolder;
       color: white;
       outline-color: black;
-      
+
 }
+
 div.applist {
-      
+
       height: max-content;
-      display:flex;
+      display: flex;
       margin: auto;
       flex-direction: column;
       justify-content: center;
       box-sizing: border-box;
 
       border-radius: 50px;
-      
+
       flex: 1;
       background: rgb(88, 142, 224);
       padding: 50px;
-      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./images/mindskydoor.jpeg);
-      
+      background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./images/mindskydoor.jpeg);
+
       background-size: cover;
-      
+
 
 }
+
 p {
 
       font-size: 22px;
       color: white;
       align-content: flex-start;
 }
-.applistfont{
+
+.applistfont {
       font-size: 27px;
-      
+
 }
 
-.listheader{
+.listheader {
       color: white;
 }
 
 @media (max-width: 600px) {
+
       /* adjust the layout here */
       .row {
-        flex-direction: column;
+            flex-direction: column;
       }
+
       .col {
-        width: 100%;
-        margin-bottom: 1rem;
+            width: 100%;
+            margin-bottom: 1rem;
       }
-    }
+}
